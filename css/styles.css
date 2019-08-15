@@ -19,3 +19,16 @@ p{
 .row{
   color: darkgreen;
 }
+.navbar{
+  background-color: lightseagreen;
+}
+.nav-link{
+  color: palegreen;
+}
+.navbar-brand{
+  color: lightgreen;
+}
+
+.carousel-container {
+  margin: auto;
+}
